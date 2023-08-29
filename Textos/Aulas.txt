@@ -1,0 +1,31 @@
+Machine Learning:
+
+* Processo de adiquirir conhecimento
+
+Conceitos (tarefas):
+* mais importentes *
+- Classificação --> 
+    Descrever ou pescrever um atributo chamado classe, a classe é o objetivo
+- Regressão --> 
+    
+- Agrupamento --> 
+
+- Regras de Associação --> 
+
+
+* outras * 
+- Detecção de anomalias --> Em busca de anomalias
+- Aprendizado por reforço --> tentativa e erro
+- Processamento de Linguagem Natural (NLP) --> Audio ou texto
+- Redes neurais* --> 
+- Redução de dimensionalidade/Seleção de recursos --> 
+- Aprendizado semisupervisionado --> Meio caminho entre classificação e Agrupamento
+
+
+
+
+
+
+
+
+
