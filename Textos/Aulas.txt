@@ -6,10 +6,13 @@ Conceitos (tarefas):
 * mais importentes *
 - Classificação --> 
     Descrever ou pescrever um atributo chamado classe, a classe é o objetivo
+    Dados categoricos
 - Regressão --> 
-    
+    O atributo é nuemerico
+    Dados nuemerico
 - Agrupamento --> 
-
+    Agrupar atrubutos atraves de caracteristicas matematicas
+    
 - Regras de Associação --> 
 
 
@@ -20,10 +23,6 @@ Conceitos (tarefas):
 - Redes neurais* --> 
 - Redução de dimensionalidade/Seleção de recursos --> 
 - Aprendizado semisupervisionado --> Meio caminho entre classificação e Agrupamento
-
-
-
-
 
 
 
